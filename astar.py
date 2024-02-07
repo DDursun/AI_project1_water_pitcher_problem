@@ -148,6 +148,6 @@ def a_star(capacities, target_quantity):
 
 
 if __name__ == '__main__':
-    capacities, target_quantity = read_input_file(r"C:\Users\Dursun\OneDrive - Baku Higher Oil School\Desktop\WaterPitcherProblem\P1_Option2_WaterPitcher\cat input2.txt")
+    capacities, target_quantity = read_input_file(r"/path_to_file")
     steps = a_star(capacities, target_quantity)
     print(steps)
