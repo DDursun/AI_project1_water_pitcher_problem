@@ -1,11 +1,9 @@
-# Types and OOP concepts
+# Water Pitcher Problem
 ## Contents
 
 * [Prerequisites](#prerequisites)
 * [Getting Started](#getting-started)
 * [Written by](#author)
-
-
 
 
 
@@ -39,6 +37,6 @@ python astar.py
 
 ## Written by
 Dursun Dashdamirov
-CSDA master's student.
+CSDA master's student at GWU&ADA.
 
 
